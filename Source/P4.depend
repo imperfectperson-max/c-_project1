@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1723445004 source:c:\users\bonga\downloads\p4\ccimage.cpp
+	"CCImage.h"
+	<sstream>
+
+1723313088 c:\users\bonga\downloads\p4\ccimage.h
+	<iostream>
+	<cstdlib>
+	"UJUtilLib.h"
+
+1723313088 c:\users\bonga\downloads\p4\ujutillib.h
+	<iostream>
+
+1723479907 source:c:\users\bonga\downloads\p4\main.cpp
+	"CCImage.h"
+	"UJBlurFilter.h"
+	"UJEdgeFilter.h"
+
+1723479872 source:c:\users\bonga\downloads\p4\ujblurfilter.cpp
+	"UJBlurFilter.h"
+	<algorithm>
+	<cmath>
+
+1723481663 source:c:\users\bonga\downloads\p4\ujedgefilter.cpp
+	"UJEdgeFilter.h"
+	<algorithm>
+
+1723313088 source:c:\users\bonga\downloads\p4\ujutillib.cpp
+	"UJUtilLib.h"
+	"CCImage.h"
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cassert>
+
+1723369068 source:c:\users\bonga\downloads\p4\ujfilter.cpp
+	"UJFilter.h"
+
+1723472724 c:\users\bonga\downloads\p4\ujfilter.h
+	"CCImage.h"
+	<cassert>
+
+1723369068 c:\users\bonga\downloads\p4\ujedgefilter.h
+	"UJFilter.h"
+
+1723369068 c:\users\bonga\downloads\p4\ujblurfilter.h
+	"UJFilter.h"
+
+1723445004 source:c:\users\bonga\downloads\sikhakhane_b_223013606_csc01b1_2024_p4\source\ccimage.cpp
+	"CCImage.h"
+	<sstream>
+
+1723313088 c:\users\bonga\downloads\sikhakhane_b_223013606_csc01b1_2024_p4\source\ccimage.h
+	<iostream>
+	<cstdlib>
+	"UJUtilLib.h"
+
+1723313088 c:\users\bonga\downloads\sikhakhane_b_223013606_csc01b1_2024_p4\source\ujutillib.h
+	<iostream>
+
+1724500826 source:c:\users\bonga\downloads\sikhakhane_b_223013606_csc01b1_2024_p4\source\main.cpp
+	"CCImage.h"
+	"UJFilter.h"
+	"UJBlurFilter.h"
+	"UJEdgeFilter.h"
+
+1724497611 c:\users\bonga\downloads\sikhakhane_b_223013606_csc01b1_2024_p4\source\ujblurfilter.h
+	"UJFilter.h"
+
+1724501015 c:\users\bonga\downloads\sikhakhane_b_223013606_csc01b1_2024_p4\source\ujfilter.h
+	"CCImage.h"
+	<cassert>
+
+1724497611 c:\users\bonga\downloads\sikhakhane_b_223013606_csc01b1_2024_p4\source\ujedgefilter.h
+	"UJFilter.h"
+
+1724498994 source:c:\users\bonga\downloads\sikhakhane_b_223013606_csc01b1_2024_p4\source\ujfilter.cpp
+	"UJFilter.h"
+
+1723313088 source:c:\users\bonga\downloads\sikhakhane_b_223013606_csc01b1_2024_p4\source\ujutillib.cpp
+	"UJUtilLib.h"
+	"CCImage.h"
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cassert>
+
+1724497611 source:c:\users\bonga\downloads\sikhakhane_b_223013606_csc01b1_2024_p4\source\ujblurfilter.cpp
+	"UJBlurFilter.h"
+	<algorithm>
+	<cmath>
+
+1724497447 source:c:\users\bonga\downloads\sikhakhane_b_223013606_csc01b1_2024_p4\source\ujedgefilter.cpp
+	"UJEdgeFilter.h"
+	<algorithm>
+
